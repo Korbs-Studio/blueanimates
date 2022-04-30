@@ -1,0 +1,141 @@
+:root {
+    --blue: #425a86;
+    --blue-light: #6d9eeb;
+    --max-width: clamp(0px, calc(100% - 50px), 1280px);
+}
+
+a {
+    color: var(--blue-light);
+    text-decoration: none;
+}
+#highlight {
+    color: var(--blue-light);
+}
+::selection {
+    background-color: var(--blue-light);
+    color: inherit;
+}
+
+body {
+    background: rgba(225,228,232,1);
+    font-family: arial;
+    width: 100%;
+    max-width: var(--max-width);
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    transform: translate(-50%);
+    overflow-x: hidden;
+}
+
+header {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    color: white;
+    background: var(--blue);
+}
+header::before {
+    content: "";
+    background: var(--blue);
+    position: fixed;
+    z-index: -1;
+    width: 1000%;
+    height: 160px;
+    top: -82px;
+    left: 50%;
+    transform: translate(-50%);
+}
+header h1 {
+    font-size: 24px;
+}
+.menu {
+    position: absolute;
+    top: 20px;
+    left: 200px;
+}
+.menu a {
+    margin-right: 14px;
+    font-weight: bold;
+    color: white;
+}
+.socials a {
+    color: white;
+    margin-left: 14px;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    padding: 10% 0px;
+    background: var(--blue);
+}
+.header::before {
+    content: "";
+    background: var(--blue);
+    position: fixed;
+    z-index: -1;
+    width: 1000%;
+    height: 89px;
+    top: 78px;
+    left: 50%;
+    transform: translate(-50%);
+    padding: 10% 0px;
+}
+
+#grid-2575 {
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+}
+#grid-7525 {
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+}
+#grid-5050 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 25px;
+    align-items: center;
+}
+
+#grid-S3 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+}
+#grid-S4 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: center;
+}
+
+#rn2022 {
+  background: white;
+  margin: -48px 46px 0px 46px;
+  padding: 10px 0px;
+  font-weight: bold;
+}
+
+section img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    transform: scale(0.7);
+    pointer-events: none;
+}
+
+@media only screen and (max-width: 900px) {
+    #grid-5050 {grid-template-columns: auto !important;}
+}
+@media only screen and (max-width: 750px) {
+    header {margin-bottom: 70px;}
+    .header::before {height: 155px !important}
+    .menu {
+        position: absolute !important;
+        top: 80px !important;
+        left: 0px !important;
+        width: 100% !important;
+    }
+}
