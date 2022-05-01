@@ -199,3 +199,27 @@ banner::before {
     from {transform: scale(1.2);}
     to {transform: scale(1);}
 }
+
+@media only screen and (max-width: 900px) {
+    #grid-5050 {grid-template-columns: auto !important;}
+}
+@media only screen and (max-width: 750px) {
+    header {margin-bottom: 70px;}
+    .header::before {height: 155px !important}
+    banner img {
+        object-position: 0px !important;
+        height: 260px !important;
+    }
+    banner::before {
+        height: 260px !important;
+    }
+    #for-banner {
+        margin: 100px 0px 54px 0px !important;
+    }
+    .menu {
+        position: absolute !important;
+        top: 80px !important;
+        left: 0px !important;
+        width: 100% !important;
+    }
+}
