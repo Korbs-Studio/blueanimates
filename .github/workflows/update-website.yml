@@ -13,4 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update Website
-        run: sudo cp -R ./* /usr/share/nginx/blueanimates/website/
+        run: |
+          JEKYLL_ENV=production bundle exec jekyll build
+          cd _sites/
+          sudo cp -R ./* /usr/share/nginx/blueanimates/website/
