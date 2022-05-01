@@ -1,0 +1,140 @@
+{% include master/head.html %}
+{% include master/header.html %}
+
+<script src="/assets/js/tab-switcher.js"></script>
+
+<banner>
+    <img src="/assets/images/Christmas with Friends.png">
+</banner>
+<div class="content">
+    <h1 id="for-banner">{{page.title}}</h1>
+    <section id="extra-menu">
+        <button onclick="toTab('2021', this, 'var(--blue-light)'); document.getElementById('extra-placeholder').style.display = 'none';" class="tab">2021</button>
+        <button onclick="toTab('2022', this, 'var(--blue-light)'); document.getElementById('extra-placeholder').style.display = 'none';" class="tab">2022</button>
+    </section>
+    <section id="extra-placeholder">
+        <p>Select a year to see content</p>
+    </section>
+    <section class="extra-content" id="2021">
+        <h1>2021</h1>
+        <h2>Animations</h2>
+        <div class="grid-5050">
+            <div>
+                <video controls src="https://cdn.blueanimates.com/videos/The Beginning - Steve's Adventures Part 1.mp4" poster="/assets/images/thumbnails/1.png"></video>
+                <p>"The Beginning" - Steve's Adventures Part 1</p>
+            </div>
+            <div>
+                <video controls src="https://cdn.blueanimates.com/videos/Show Yourself Among Us.mp4" poster="/assets/images/thumbnails/2.png"></video>
+                <p>Show Yourself | Among Us Animation #shorts</p>
+            </div>
+        </div>
+        <div class="grid-5050">
+            <div>
+                <video controls src="https://cdn.blueanimates.com/videos/Baby Trents Christmas Jack Stauber Minecraft Animation_1080p.mp4" poster="/assets/images/thumbnails/3.png"></video>
+                <p>Baby Trent's Christmas | Jack Stauber Minecraft Animation</p>
+            </div>
+            <div>
+                <video controls src="https://cdn.blueanimates.com/videos/Vibrant Eyes Dream SMP Short_1080p.mp4" poster="/assets/images/thumbnails/4.png"></video>
+                <p>Vibrant Eyes | Dream SMP Short</p>
+            </div>
+        </div>
+        <hr>
+        <h2>Renders</h2>
+        <section class="grid-5050">
+            <img src="/assets/images/renders/2021/Banner.png">
+            <img src="/assets/images/renders/2021/Final Render 2.png">
+        </section>
+        <section class="grid-5050">
+            <img src="/assets/images/renders/2021/Render 3.png">
+            <img src="/assets/images/renders/2021/RanbooPanic2.png">
+        </section>
+        <hr>
+        <h2>Character Models</h2>
+        <section id="grid-S3">
+            <div>
+                <img src="/assets/images/models/2021/blue.png">
+                <p>My Character</p>
+            </div>
+            <div>
+                <img src="/assets/images/models/2021/bbh.png">
+                <p>BadBoyHalo</p>
+            </div>
+            <div>
+                <img src="/assets/images/models/2021/sam.png">
+                <p>Awesamdude</p>
+            </div>
+        </section>
+    </section>
+    <section class="extra-content" id="2022">
+        <h1>2022</h1>
+        <h2>Animations</h2>
+        <div class="grid-5050">
+            <div>
+                <video controls src="https://cdn.blueanimates.com/videos/Grian HAUNTS Mumbo Hermitcraft Animation_1080p.mp4" poster="/assets/images/thumbnails/5.png"></video>
+                <p>Grian HAUNTS Mumbo | Hermitcraft Animation</p>
+            </div>
+            <div>
+                <video controls src="https://cdn.blueanimates.com/videos/We Dont Talk About Bruno Minecraft Encanto Short_1080p.mp4" poster="/assets/images/thumbnails/6.png"></video>
+                <p>We Don't Talk About Bruno | Minecraft Encanto Short</p>
+            </div>
+        </div>
+        <hr>
+        <h1>Renders</h1>
+        <section id="grid-S4">
+            <div>
+                <img src="/assets/images/renders/2022/Teaser 1.png">
+                <p id="rn2022">Steve's Minecraft Adventures 2 | Teaser</p>
+            </div>
+            <div>
+                <img src="/assets/images/renders/2022/Main Channel EDITED.png">
+                <p id="rn2022">Main Channel Icon</p>
+            </div>
+            <div>
+                <img src="/assets/images/renders/2022/Second Channel EDITED.png">
+                <p id="rn2022">Second Channel Icon</p>
+            </div>
+            <div>
+                <img src="/assets/images/renders/2022/Tutorials Channel EDITED.png">
+                <p id="rn2022">Tutorials Channel Icon</p>
+            </div>
+        </section>
+        <section id="grid-S4">
+            <div>
+                <img src="/assets/images/renders/2022/teaser1.png">
+                <p id="rn2022">Dream Manhunt Render</p>
+            </div>
+            <div>
+                <img src="/assets/images/renders/2022/Dream's Final Manhunt - Victory REVAMPED.png">
+                <p id="rn2022">Dream Animation | Teaser</p>
+            </div>
+            <div>
+                <img src="/assets/images/renders/2022/Angry.png">
+                <p id="rn2022">Angry Emote</p>
+            </div>
+            <div>
+                <img src="/assets/images/renders/2022/Fear.png">
+                <p id="rn2022">Fear Emote</p>
+            </div>
+        </section>
+        <h1>Character Models</h1>
+        <section id="grid-S3">
+            <div>
+                <img src="/assets/images/models/2022/Grian.png">
+                <p>Grian</p>
+            </div>
+            <div>
+                <img src="/assets/images/models/2022/Full Preset.png">
+                <p>Dream</p>
+            </div>
+        </section>
+        <section style="margin-top: 120px;" id="footer">
+            <div>
+                <p><i class="fa-light fa-copyright"></i> 2021 - 2022 BlueAnimates</p>
+            </div>
+        </section>
+    </section>
+    {% include master/footer.html %}
+</div>
+<style>
+#Portfolio {background: var(--blue-light);}
+</style>

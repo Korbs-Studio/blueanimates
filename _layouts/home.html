@@ -1,0 +1,57 @@
+{% include master/head.html %}
+{% include master/header.html %}
+
+<banner>
+    <img src="/assets/images/Teaser_1.png">
+</banner>
+<div class="content">
+    <section id="hero-fullscreen">
+        <div class="grid-40auto vertical-center">
+            <img src="/assets/images/blue-waving.png">
+            <div>
+                <h1>Welcome!</h1>
+                <p>I am a 3D artist who primarily works with Minecraft-style creations and renders! You can find out more about me on my FAQ page.</p>
+                <a href="mailto:hello@blueanimates.com"><button>Contact Me</button></a>
+            </div>
+        </div>
+    </section>
+</div>
+{% include master/footer.html %}
+<style>
+#Home {background: var(--blue-light);}
+</style>
+<style>
+body {
+  background: var(--blue);
+  color: white;
+}
+banner img {
+  background-image: url('/assets/images/Exploration (0;00;00;00).png');
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  opacity: 0.1;
+  filter: saturate(0);
+  z-index: -1;
+  animation: 2s bigBanner ease-in-out;
+}
+#footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  max-width: var(--max-width);
+  background: var(--blue);
+  padding: 0px 100%;
+  left: 50%;
+  transform: translate(-50%);
+}
+.content {
+  position: fixed;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+</style>
