@@ -15,5 +15,5 @@ jobs:
       - name: Update Website
         run: |
           JEKYLL_ENV=production bundle exec jekyll build
-          cd _sites/
+          cd /usr/share/korbs-studio/blue-runners/website/_work/blueanimates/blueanimates/_site/
           sudo cp -R ./* /usr/share/nginx/blueanimates/website/
