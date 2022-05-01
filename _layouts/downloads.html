@@ -1,0 +1,46 @@
+{% include master/head.html %}
+{% include master/header.html %}
+
+<script src="/assets/js/tab-switcher.js"></script>
+
+<banner>
+    <img src="/assets/images/Christmas with Friends.png">
+</banner>
+<div class="content">
+    <h1 id="for-banner">{{page.title}}</h1>
+    <section>
+        <h2>Credits</h2>
+        <p>If you use any of these assets, please be sure to credit me! You are free to use these in whatever way you'd like, enjoy!</p>
+        <section style="text-align: center;" class="grid-5050">
+            <div>
+                <div>
+                    <img src="/assets/images/for-downloads/Dog Rig.png">
+                    <a href="https://cdn.blueanimates.com/blender/rigs/Dog Rig.blend">Dog Rig (No Bends)</a>
+                </div>
+                <div>
+                    <img src="/assets/images/for-downloads/Phone.png">
+                    <a href="https://cdn.blueanimates.com/blender/rigs/Phone.blend">Phone Model</a>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <img src="/assets/images/for-downloads/Snowman Rig.png">
+                    <a href="https://cdn.blueanimates.com/blender/rigs/Snowman Rig.blend">Snowman Rig (No Bends)</a>
+                </div>
+                <div>
+                    <img src="/assets/images/for-downloads/VR Headset.png">
+                    <a href="https://cdn.blueanimates.com/blender/rigs/VR Headset.blend">VR Headset Model</a>
+                </div>
+            </div>
+        </section>
+        <section style="margin-top: 120px;" id="footer">
+            <div>
+                <p><i class="fa-light fa-copyright"></i> 2021 - 2022 BlueAnimates</p>
+            </div>
+        </section>
+    </section>
+    {% include master/footer.html %}
+</div>
+<style>
+#Downloads {background: var(--blue-light);}
+</style>

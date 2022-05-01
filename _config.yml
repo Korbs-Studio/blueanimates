@@ -1,0 +1,26 @@
+title: BlueAnimates
+email: hello@blueanimates.com
+description: >-
+  I am a 3D artist who primarily works with Minecraft-style creations and renders! You can find out more about me on my FAQ page.
+baseurl: ""
+url: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-redirect-from
+  
+include:
+ - _pages
+
+author: BlueAnimates
+
+twitter:
+  username: BlueAnimates
+  card: summary
