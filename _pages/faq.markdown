@@ -38,6 +38,6 @@ A: I am not interested in working with any more teams at the moment.
 
   
 
-**Q: Can I commission you?**
+**Q: Can you make me a free render?**
 
-A: Of course you can! Check out my [Commissions page](/commissions/) for more details.
+A: No thanks. I don't take requests right now and my commissions are closed. Sorry!
