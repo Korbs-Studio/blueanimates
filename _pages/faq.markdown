@@ -7,6 +7,7 @@ permalink: /faq/
 #FAQ {background: var(--blue-light);}
 </style>
 
+
 **Q: Who inspired you to start making 3D art-related content?**
 
 A: People like Hapico, Blue Monkey, and many more animators inspire me to keep going with animation because it's something I really enjoy!
