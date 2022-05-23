@@ -12,6 +12,6 @@ permalink: /downloads/
 | <img src="/assets/images/for-downloads/Snowman Rig.png">                                         | <img src="/assets/images/for-downloads/VR Headset.png">                                   |
 | <a href="https://cdn.blueanimates.com/blender/rigs/Snowman Rig.blend">Snowman Rig (No Bends)</a> | <a href="https://cdn.blueanimates.com/blender/rigs/VR Headset.blend">VR Headset Model</a> |
 
-|--------------------------------------------------------------------------------------------------|
-| <img src="/assets/images/for-downloads/Dream Presets.png">                                       |
-| <a href="https://cdn.blueanimates.com/blender/rigs/DreamTeamPack.zip">Dream Team Presets</a>     |
+|----------------------------------------------------------------------------------------------|
+| <img src="/assets/images/for-downloads/Dream Presets.png">                                   |
+| <a href="https://cdn.blueanimates.com/blender/rigs/DreamTeamPack.zip">Dream Team Presets</a> |
