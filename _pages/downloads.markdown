@@ -14,8 +14,8 @@ permalink: /downloads/
 
 |----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------:|
 | <img src="/assets/images/for-downloads/dream.png" width="50%" height="50%">                               | <img src="/assets/images/for-downloads/george.png" width="50%" height="50%">                                | 
-| <a href="https://www.mediafire.com/file/37fzkf27rhsc92u/Dream.blend/file">Dream Preset</a> | <a href="https://www.mediafire.com/file/v0idcewpj62zp79/George.blend/file">George Preset</a> |
+| <a href="https://github.com/Korbs-Studio/blueanimates-cdn/raw/main/blender/rigs/Dream.blend">Dream Preset</a> | <a href="https://github.com/Korbs-Studio/blueanimates-cdn/raw/main/blender/rigs/George.blend">George Preset</a> |
 
 |------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------:|
 | <img src="/assets/images/for-downloads/sapnap.png" width="50%" height="50%">                                | <img src="/assets/images/for-downloads/bbh.png" width="50%" height="50%">                                           | 
-| <a href="https://www.mediafire.com/file/jiiruril7ntfxtw/Sapnap.blend/file">Sapnap Preset</a> | <a href="https://www.mediafire.com/file/kjzue774fwbwnqm/BadBoyHalo.blend/file">BadBoyHalo Preset</a> |
+| <a href="https://github.com/Korbs-Studio/blueanimates-cdn/raw/main/blender/rigs/Sapnap.blend">Sapnap Preset</a> | <a href="https://github.com/Korbs-Studio/blueanimates-cdn/raw/main/blender/rigs/BadBoyHalo.blend">BadBoyHalo Preset</a> |
