@@ -12,10 +12,10 @@ permalink: /downloads/
 | <img src="/assets/images/for-downloads/Snowman Rig.png">                                         | <img src="/assets/images/for-downloads/VR Headset.png">                                   |
 | <a href="https://cdn.blueanimates.com/blender/rigs/Snowman Rig.blend">Snowman Rig (No Bends)</a> | <a href="https://cdn.blueanimates.com/blender/rigs/VR Headset.blend">VR Headset Model</a> |
 
-|----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------:|
-| <img src="/assets/images/for-downloads/dream.png" width="50%" height="50%">                               | <img src="/assets/images/for-downloads/george.png" width="50%" height="50%">                                | 
+|---------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------:|
+| <img src="/assets/images/for-downloads/dream.png">                                                            | <img src="/assets/images/for-downloads/george.png">                                                             | 
 | <a href="https://github.com/Korbs-Studio/blueanimates-cdn/raw/main/blender/rigs/Dream.blend">Dream Preset</a> | <a href="https://github.com/Korbs-Studio/blueanimates-cdn/raw/main/blender/rigs/George.blend">George Preset</a> |
 
-|------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------:|
-| <img src="/assets/images/for-downloads/sapnap.png" width="50%" height="50%">                                | <img src="/assets/images/for-downloads/bbh.png" width="50%" height="50%">                                           | 
+|-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------:|
+| <img src="/assets/images/for-downloads/sapnap.png">                                                             | <img src="/assets/images/for-downloads/bbh.png">                                                                        | 
 | <a href="https://github.com/Korbs-Studio/blueanimates-cdn/raw/main/blender/rigs/Sapnap.blend">Sapnap Preset</a> | <a href="https://github.com/Korbs-Studio/blueanimates-cdn/raw/main/blender/rigs/BadBoyHalo.blend">BadBoyHalo Preset</a> |
