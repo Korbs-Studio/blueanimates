@@ -13,7 +13,7 @@ permalink: /downloads/
 | <a href="https://cdn.blueanimates.com/blender/rigs/Snowman Rig.blend">Snowman Rig (No Bends)</a> | <a href="https://cdn.blueanimates.com/blender/rigs/VR Headset.blend">VR Headset Model</a> |
 
 |---------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------:|
-| <img src="Korbs-Studio/blueanimates/assets/images/for-downloads/dream.png">                                                            | <img src="/assets/images/for-downloads/george.png">                                                             | 
+| <img src="/assets/images/for-downloads/dream.png">                                                            | <img src="/assets/images/for-downloads/george.png">                                                             | 
 | <a href="https://github.com/Korbs-Studio/blueanimates-cdn/raw/main/blender/rigs/Dream.blend">Dream Preset</a> | <a href="https://github.com/Korbs-Studio/blueanimates-cdn/raw/main/blender/rigs/George.blend">George Preset</a> |
 
 |-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------:|
