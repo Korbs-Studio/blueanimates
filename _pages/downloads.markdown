@@ -14,8 +14,8 @@ permalink: /downloads/
 
 |----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------:|
 | <img src="/assets/images/for-downloads/dream.png">                               | <img src="/assets/images/for-downloads/george.png">                                | 
-| <a href="https://cdn.blueanimates.com/blender/rigs/Dream.blend">Dream Preset</a> | <a href="https://cdn.blueanimates.com/blender/rigs/George.blend">George Preset</a> |
+| <a href="https://www.mediafire.com/file/37fzkf27rhsc92u/Dream.blend/file">Dream Preset</a> | <a href="https://www.mediafire.com/file/v0idcewpj62zp79/George.blend/file">George Preset</a> |
 
 |------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------:|
 | <img src="/assets/images/for-downloads/sapnap.png">                                | <img src="/assets/images/for-downloads/bbh.png">                                           | 
-| <a href="https://cdn.blueanimates.com/blender/rigs/Sapnap.blend">Sapnap Preset</a> | <a href="https://cdn.blueanimates.com/blender/rigs/BadBoyHalo.blend">BadBoyHalo Preset</a> |
+| <a href="https://www.mediafire.com/file/jiiruril7ntfxtw/Sapnap.blend/file">Sapnap Preset</a> | <a href="https://www.mediafire.com/file/kjzue774fwbwnqm/BadBoyHalo.blend/file">BadBoyHalo Preset</a> |
