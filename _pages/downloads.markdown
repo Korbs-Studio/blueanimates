@@ -14,4 +14,4 @@ permalink: /downloads/
 
 |--------------------------------------------------------------------------------------------------|
 | <img src="/assets/images/for-downloads/Dream Presets.png">                                       |
-| <a href="https://cdn.blueanimates.com/blender/rigs/Dream Team (Final).zip">Dream Team Presets</a>|
+| <a href="https://cdn.blueanimates.com/blender/rigs/Dream Team Pack.zip">Dream Team Presets</a>|
